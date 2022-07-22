@@ -14,7 +14,7 @@ class Config
      * Database host
      * @var string
      */
-    const DB_HOST = 'localhost'; 
+    const DB_HOST = 'mysql_db'; 
 
     /**
      * Database name
